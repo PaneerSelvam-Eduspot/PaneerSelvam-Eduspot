@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paneer Selvam V 👋</h1>
+<h1 align="center">Hi, I'm Paneer Selvam👋</h1>
 
 <p align="center">
   <b>Full Stack Software Engineer</b> building AI-powered web apps and clean, secure APIs<br/>
@@ -141,6 +141,18 @@ A from-scratch JavaScript Promise implementation, paired with a visualizer that 
 
 - Building and refining AI features (retrieval quality, prompting, streaming UX)
 - Strengthening DSA and system design fundamentals
+
+---
+
+## ☕ Support My Work
+
+If my projects helped you or you enjoyed them, you can fuel the next build with a coffee.
+
+<p align="center">
+  <a href="https://ko-fi.com/paneerselvam">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 ---
 
