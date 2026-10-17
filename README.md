@@ -100,7 +100,7 @@ A versioned REST API for retrieving and creating alien data, deployed on Render.
 
 ---
 
-### 📝 [MyCodeEditor](https://github.com/YOUR_USERNAME/mycodeeditor)
+### 📝 [MyCodeEditor](https://github.com/PaneerSelvam-Eduspot/myCodeEditor)
 A browser-based code editor for writing and previewing HTML, CSS, and JavaScript with live output.
 
 - Live preview rendered through an iframe, built on Ace Editor
