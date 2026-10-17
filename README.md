@@ -86,7 +86,7 @@ A full-stack, AI-powered fan app with searchable alien directories, series filte
 
 ---
 
-### 🔌 [Ben10 Aliens REST API](https://github.com/YOUR_USERNAME/ben10-aliens-api)
+### 🔌 [Ben10 Aliens REST API](https://github.com/PaneerSelvam-Eduspot/ben10-api)
 A versioned REST API for retrieving and creating alien data, deployed on Render.
 
 - Resource-based endpoints, series routing, and query-parameter filtering
@@ -115,7 +115,7 @@ A browser-based code editor for writing and previewing HTML, CSS, and JavaScript
 
 ---
 
-### 🍕 [Custom Promise Library (PizzaHub Visualization)](https://github.com/YOUR_USERNAME/promise-pizzahub)
+### 🍕 [Custom Promise Library (PizzaHub Visualization)](https://github.com/PaneerSelvam-Eduspot/promise-pizzahubVisual)
 A from-scratch JavaScript Promise implementation, paired with a visualizer that shows async behavior in action.
 
 - Implements Promise states, chaining, async execution, and rejection handling
@@ -131,8 +131,8 @@ A from-scratch JavaScript Promise implementation, paired with a visualizer that 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaneerSelvam-Eduspot&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaneerSelvam-Eduspot&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
 
 ---
