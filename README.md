@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/paneerselvam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://paneerselvam.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:paneerselvamv4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -72,7 +72,7 @@
 
 ## 🚀 Featured Projects
 
-### 👽 [Ben10 Alien Explorer](https://github.com/YOUR_USERNAME/ben10-alien-explorer)
+### 👽 [Ben10 Alien Explorer](https://github.com/PaneerSelvam-Eduspot/ben10AlienExplorer)
 A full-stack, AI-powered fan app with searchable alien directories, series filtering, detailed alien pages, and user accounts.
 
 - **Domain-specific RAG assistant** using Gemini embeddings and Astra DB vector search, with streamed responses grounded in retrieved context
@@ -82,7 +82,7 @@ A full-stack, AI-powered fan app with searchable alien directories, series filte
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Astra DB` `LangChain` `Framer Motion`
 
-🔗 [Live Demo](https://YOUR_DEMO_URL) · [Source Code](https://github.com/YOUR_USERNAME/ben10-alien-explorer)
+🔗 [Live Demo](https://ben10alienexplorer.vercel.app/) · [Source Code](https://github.com/PaneerSelvam-Eduspot/ben10AlienExplorer)
 
 ---
 
@@ -96,7 +96,22 @@ A versioned REST API for retrieving and creating alien data, deployed on Render.
 
 `Node.js` `Express.js` `MongoDB` `Mongoose` `Swagger/OpenAPI` `Postman` `Render`
 
-🔗 [API Docs](https://YOUR_API_DOCS_URL) · [Source Code](https://github.com/YOUR_USERNAME/ben10-aliens-api)
+🔗 [API Docs](https://ben10-api-u7dc.onrender.com/api/v1/docs/) · [Source Code](https://github.com/PaneerSelvam-Eduspot/ben10-api)
+
+---
+
+### 📝 [MyCodeEditor](https://github.com/YOUR_USERNAME/mycodeeditor)
+A browser-based code editor for writing and previewing HTML, CSS, and JavaScript with live output.
+
+- Live preview rendered through an iframe, built on Ace Editor
+- Core editor features: keyboard shortcuts, editor-tab navigation, and semantic HTML
+- Project persistence with localStorage and JSON serialization, plus File and Blob APIs for saving and restoring projects
+- Logging, storage, and file handling organized into reusable services
+- Debugged issues using browser inspection and DevTools
+
+`HTML` `CSS` `JavaScript` `Ace Editor`
+
+🔗 [Live Demo](https://browser-code-editor.netlify.app/) · [Source Code](https://github.com/PaneerSelvam-Eduspot/myCodeEditor)
 
 ---
 
@@ -108,8 +123,8 @@ A from-scratch JavaScript Promise implementation, paired with a visualizer that 
 - Order logic separated from UI logic, with cancellation handling for interrupted workflows
 
 `JavaScript` `Promises` `Asynchronous Programming`
-
-🔗 [Source Code](https://github.com/YOUR_USERNAME/promise-pizzahub)
+🔗 [Live Demo](https://promise-pizzahub-visual.vercel.app/)
+🔗 [Source Code](https://github.com/PaneerSelvam-Eduspot/promise-pizzahubVisual)
 
 ---
 
