@@ -131,11 +131,10 @@ A from-scratch JavaScript Promise implementation, paired with a visualizer that 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaneerSelvam-Eduspot&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaneerSelvam-Eduspot&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/> 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaneerSelvam-Eduspot&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 </p>
-
 ---
 
 ## 🌱 Currently
